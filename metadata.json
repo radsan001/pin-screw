@@ -1,0 +1,6 @@
+{
+  "name": "Screw Solver: Nuts & Bolts",
+  "description": "A highly addictive, professionally polished physics-based puzzle game featuring classic screw pulling, board clearing, and colorful screw sorting modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
